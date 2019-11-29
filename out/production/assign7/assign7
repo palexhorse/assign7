@@ -1,0 +1,6 @@
+// CSCE 4300 - Assignment 7
+// Aaron Johnson - atj0015@unt.edu
+// This is a Java implementation of the Triangle Peg Solitaire game popularized
+// by Cracker Barrel. This program utilizes DFS to create and traverse the board,
+// and uses backtracking with lists to solve the game, and prints the steps to the user.
+
